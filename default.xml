@@ -2,8 +2,11 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".."
+           fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
+  <remote  name="ksj8"
+           fetch="https://github.com/KSJ8/"
+           revision="refs/heads/master" />
   <default revision="refs/tags/android-9.0.0_r16"
            remote="aosp"
            sync-j="4" />
