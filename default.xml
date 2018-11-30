@@ -539,7 +539,7 @@
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" />
   <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" groups="pdk-fs" remote="ksj8" />
   <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" />
+  <project path="packages/apps/Email" name="platform_packages_apps_Email" groups="pdk-fs" remote="ksj8" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" />
   <project path="packages/apps/ExactCalculator" name="platform_packages_apps_ExactCalculator" groups="pdk-fs" remote="ksj8" />
   <project path="packages/apps/F-Droid/privileged-extension" name="platform_packages_apps_F-Droid_privileged-extension" remote="ksj8" />
