@@ -275,6 +275,7 @@
   <project path="external/modp_b64" name="platform/external/modp_b64" groups="pdk" />
   <project path="external/mp4parser" name="platform/external/mp4parser" groups="pdk" />
   <project path="external/mtpd" name="platform/external/mtpd" groups="pdk" />
+  <project path="external/Music-Player-GO" name="platform_external_Music-Player-GO" remote="ksj8" />
   <project path="external/nanohttpd" name="platform/external/nanohttpd" groups="pdk" />
   <project path="external/nanopb-c" name="platform/external/nanopb-c" groups="pdk" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" groups="pdk" />
@@ -552,7 +553,6 @@
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="LineageOS/android_packages_apps_Messaging" groups="pdk-fs" remote="github" revision="lineage-16.0" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" groups="pdk-cw-fs,pdk-fs" />
